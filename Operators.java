@@ -46,6 +46,5 @@ public class Operators{
         System.out.println("The result of isTrue OR isFalse is:"+orResult);
         System.out.println("The result of NOT isTrue is:"+notResult);   
         
-
     }
 }
